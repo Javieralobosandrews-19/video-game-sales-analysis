@@ -1,25 +1,32 @@
-🎮 ## Video Game Sales Analysis
-Project Overview
+🎮 # 🎮 Video Game Sales Analysis
 
-This project explores video game sales data to identify market trends, consumer preferences and factors associated with commercial success in the gaming industry.
+## Overview
 
-Objectives
-Analyze sales performance across different platforms and genres.
-Investigate the relationship between user/critic ratings and sales.
-Identify regional market trends.
-Generate actionable insights through data visualization.
-Dataset
+This project explores video game sales data to identify market trends, consumer preferences, and factors associated with commercial success in the gaming industry.
 
-The dataset contains information about video game sales, platforms, genres, release years and review scores.
+## Objectives
 
-Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Key Findings
-Certain genres consistently outperform others in sales.
-Platform popularity varies significantly by region.
-User and critic ratings show varying degrees of correlation with sales performance.
+- Analyze sales performance across different platforms and genres.
+- Investigate the relationship between user and critic ratings and sales.
+- Identify regional market trends.
+- Generate business insights through data visualization.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Business Insights
+
+## Author
+
+Javiera Lobos Andrews
